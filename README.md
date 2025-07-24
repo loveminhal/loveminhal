@@ -10,10 +10,10 @@
 
 - 🏢 Work Experience
 
-OSR: Hardware Security Researcher (2024.4 – Present)
+    * OSR: Hardware Security Researcher (2024.4 – Present)
 
-Riscure: Security Analyst (2022.9 – 2024.3)
+    * Riscure: Security Analyst (2022.9 – 2024.3)
 
-SAIC: Automotive Penetration Testing (2022.7 – 2022.9)
+    * SAIC: Automotive Penetration Testing (2022.7 – 2022.9)
 
-Tencent Tianma Security Lab: Satellite Security Research (2021.7 – 2022.7)
+    * Tencent Tianma Security Lab: Satellite Security Research (2021.7 – 2022.7)
