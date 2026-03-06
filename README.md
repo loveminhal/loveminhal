@@ -4,7 +4,7 @@
 
 - 🌱 I greatly appreciate the elegance and openness of the RISC-V ecosystem, and I’m also curious about emerging technologies such as AI, GPU design, and the fascinating corners of Web3.
 
-- 💞 Outside of work, I’m passionate about 📷 photography, ✈️ raveling, ⛰️ hiking, and discovering new places and perspectives.
+- 💞 Outside of work, I’m passionate about 📷 photography, ✈️ traveling, ⛰️ hiking, and discovering new places and perspectives.
 
 - 📧 How to reach me: m@minhal.me or visit minhal.me
 
